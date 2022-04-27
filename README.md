@@ -13,3 +13,4 @@ and then i'm gonna load Linux Mint on it for my brother.
 
 
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yoo832)](https://github.com/anuraghazra/github-readme-stats)
