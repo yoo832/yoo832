@@ -12,5 +12,4 @@ and then i'm gonna load Linux Mint on it for my brother.
 
 
 
-![Readme Card](https://github-readme-stats.vercel.app/api?username="yoo832"theme=algolia&show_icons=true)
 
