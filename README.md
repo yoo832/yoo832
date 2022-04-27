@@ -9,3 +9,8 @@ and then i'm gonna load Linux Mint on it for my brother.
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I got intrested in GitHub when I was browsing about online.
 
+
+
+
+![Readme Card](https://github-readme-stats.vercel.app/api?username=yoo832theme=algolia&show_icons=true)
+
